@@ -5,23 +5,29 @@
 }
 
 body {
-  background-color: rgb(54, 59, 63);
+  background-color: rgb(22, 24, 26);
+  color: white;
 }
 
 .header {
   padding: 5px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: rgb(54, 59, 63);
+  background-color: rgb(22, 24, 26);
+  color: black;
 }
 
 .header h1 {
   display: inline-block;
   font-size: 45px;
+  color: black;
+  text-shadow: 1px 1px 2px red;
 }
 
 .header h2 {
     display: block;
     font-size: 15px;
+    color: black;
+    text-shadow: 1px 1px 2px red;
 }
 
 .header div {
@@ -29,39 +35,71 @@ body {
   margin-right: 35px;
   float: right;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  text-shadow: 1px 1px 2px blue;
 }
 .header div ul {
   font-size: 35px;
   list-style-type: none;
+  text-shadow: 1px 1px 2px blue;
 }
 
 .header div ul li {
   display: inline-block;
   margin-left: 15px;
-  color: rgb(10, 41, 71);
+  background-color: rgb(22, 24, 26);
+  color: black;
+  text-shadow: 1px 1px 2px blue;
 }
 
 h2 {
     font-weight: bold;
     font-size: 35px;
-}
-a {
-    color:rgb(4, 11, 19);
-    text-decoration: underline;
+    text-shadow: 1px 1px 2px red;
 }
 
+
+a {
+   text-decoration: underline;
+   color: black;
+   text-shadow: 1px 1px 2px blue;
+}
+
+
+p {
+  color: rgb(4, 11, 19);
+  margin-left: 15px;
+}
+
+
+.about-me {
+  margin-left: 50px;
+  color: black;
+}
+
+
+.projects {
+  margin-left: 25px;
+}
 
 
 #about-me {
   margin: 25px;
 }
 
+
 #projects {
-  margin: 50px;
+  margin: 50px 15px 25px 50px;
+  color: black;
+}
+
+
+#contact-me {
+  color: black;
 }
 
 .about-me img {
-  width: 125px;
+  width: 150px;
+  height: 150px;
   border: 1px solid black;
 }
 
@@ -83,4 +121,12 @@ a {
 .navigation-2 div ul {
     text-align: center;
     display: inline-block;
+}
+
+
+@media screen (max-width: 996px) {
+  body {
+    background-color: rgb(22, 24, 26);
+  }
+
 }
