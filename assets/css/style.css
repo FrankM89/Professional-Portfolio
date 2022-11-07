@@ -1,17 +1,25 @@
+/* all comments are above their code */
+
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
 
+/* styling rulus for everything in the body that isn't specified otherwise */
+
 body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
+
+/* styling rule for the header and everything within */
 
 .header {
   padding: 5px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
+
+/* rule for h1 contents */
 
 .header h1 {
   display: inline-block;
@@ -20,6 +28,8 @@ body {
   text-shadow: 1px 1px 2px blue;
 }
 
+/* styling rule for h2 contents */
+
 .header h2 {
   display: block;
   font-size: 15px;
@@ -27,21 +37,29 @@ body {
   text-shadow: 1px 1px 2px blue;
 }
 
+/* placement rules for content in header */
+
 .header div {
   padding-top: 5px;
   margin-right: 35px;
   float: right;
 }
 
+/* font size for links in header */
+
 .header div ul {
   font-size: 35px;
   list-style-type: none;
 }
 
+/* link placement rule so they are side by side */
+
 .header div ul li {
   display: inline-block;
   margin-left: 15px;
 }
+
+/* styling rule for all he's. main headers for evything within body */
 
 h2 {
   font-weight: bold;
@@ -49,14 +67,20 @@ h2 {
   text-shadow: 1px 1px 2px blue;
 }
 
+/* font style for links */
+
 a {
   color: white;
   text-shadow: 1px 1px 2px blue;
 }
 
+/* spacing for paragraphs to keep away from the side */
+
 p {
   margin-left: 15px;
 }
+
+/* styling rule for text in about me paragraph */
 
 .about-me p {
   display: table-row;
@@ -66,6 +90,8 @@ p {
   font-size: 20px;
 }
 
+/* styoing rule for text in projects paragraph */
+
 .projects p {
   display: flex;
   height: 75px;
@@ -73,25 +99,37 @@ p {
   font-size: 20px;
 }
 
+/* keeping text away from touching the browser */
+
 .about-me {
   margin-left: 50px;
 }
+
+/* keeping text away from touching the browser */
 
 .projects {
   margin-left: 25px;
 }
 
+/* indent for content within linked header */
+
 #about-me {
   margin: 25px;
 }
+
+/* indent for content within linked header */
 
 #projects {
   margin: 25px;
 }
 
+/* spacing for content in linked header in footer */
+
 #contact-me {
   margin: 20px 0 20px 0;
 }
+
+/* rule for portrait picture */
 
 div .about-me img {
   position: left;
@@ -101,6 +139,8 @@ div .about-me img {
   border: 1px solid black;
 }
 
+/* display rule for first and biggest linked image */
+
 .center {
   display: block;
   margin-left: auto;
@@ -108,6 +148,8 @@ div .about-me img {
   height: 70%;
   width: 50%;
 }
+
+/* display rules for spacing between images */
 
 .undercenter {
   display: inline;
@@ -117,12 +159,15 @@ div .about-me img {
   width: 25%;
 }
 
+/* display rules for images under main linked image */
+
 .undercenter img {
-  float: center;
   width: 500px;
   height: 310px;
   margin: 10px;
 }
+
+/* styling rules for content inside footer */
 
 .footer {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
@@ -130,23 +175,33 @@ div .about-me img {
   text-align: center;
 }
 
+/* display rule for contact me header */
+
 .footer h2 {
   display: inline-block;
   font-size: 40px;
 }
 
+/* display rule for links in footer navigation */
+
 .navigation-2 div {
   text-align: center;
 }
+
+/* display rule for listed links inside footer */
 
 .navigation-2 div ul {
   text-align: center;
   display: inline-block;
 }
 
+/* spacing rule for link in footer */
+
 .navigation-2 ul li {
   margin-bottom: 30px;
 }
+
+/* for desktop viewing */
 
 @media screen and (max-width: 996px) {
   body,
@@ -155,6 +210,8 @@ div .about-me img {
     background-color: teal;
   }
 }
+
+/* for screens smaller than a desktop (laptops, tablets, mobile) */
 
 @media screen and (max-width: 600px) {
   body,
