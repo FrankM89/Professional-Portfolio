@@ -89,6 +89,14 @@ p {
   text-shadow: 1px 1px 2px blue;
 }
 
+.project-manager  {
+  display: flex;
+  justify-content: center;
+  font-size: 50px;
+  color:teal;
+  text-shadow: 1px 1px 5px blue;
+}
+
 /* styling rule for text in about me paragraph */
 
 .about-me p {
@@ -158,23 +166,7 @@ div .about-me img {
   width: 50%;
 }
 
-/* display rules for spacing between images */
 
-.undercenter {
-  display: inline;
-  justify-content: space-evenly;
-  margin-left: 320px;
-  height: 50%;
-  width: 25%;
-}
-
-/* display rules for images under main linked image */
-
-.undercenter img {
-  width: 500px;
-  height: 310px;
-  margin: 10px;
-}
 
 /* styling rules for content inside footer */
 
