@@ -36,8 +36,8 @@ This is my portfolio page with some projects that showcase my skills in coding.<
 
 <ol>
   <li> (https://i.postimg.cc/HxnG69tQ/portfolio1.jpg)](https://postimg.cc/jWpk5Nm5) </li>
-  <li> (https://i.postimg.cc/g2rmSdkw/portfolio2.jpg)](https://postimg.cc/v4RJTJnM) </li>
-  <li> (https://i.postimg.cc/QdBZgb01/portfolio3.jpg)](https://postimg.cc/WdPyTMR1) </li>
+  <li> (https://i.postimg.cc/4d69gX94/Screenshot-20221207-053258.png)](https://postimg.cc/zbfBwZ74) </li>
+  <li> (https://i.postimg.cc/43zdKBNB/Screenshot-20221207-053443.png)](https://postimg.cc/SXxq3L9M) </li>
 </ol>
 
 ## License
