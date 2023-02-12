@@ -34,11 +34,10 @@ This is my portfolio page with some projects that showcase my skills in coding.<
 
 ## Screenshots
 
-<ol>
-  <li> (https://i.postimg.cc/HxnG69tQ/portfolio1.jpg)](https://postimg.cc/jWpk5Nm5) </li>
-  <li> (https://i.postimg.cc/4d69gX94/Screenshot-20221207-053258.png)](https://postimg.cc/zbfBwZ74) </li>
-  <li> (https://i.postimg.cc/43zdKBNB/Screenshot-20221207-053443.png)](https://postimg.cc/SXxq3L9M) </li>
-</ol>
+<img width="1279" alt="Screenshot_20230212_032317" src="https://user-images.githubusercontent.com/114839168/218343513-a2f7a58f-08dc-4858-b112-b1ab1a3151eb.png">
+<img width="1268" alt="Screenshot_20230212_032019" src="https://user-images.githubusercontent.com/114839168/218343447-cc4312c1-fd76-43eb-b18e-4d9311c77eea.png">
+<img width="1262" alt="Screenshot_20230212_032038" src="https://user-images.githubusercontent.com/114839168/218343465-f05970ca-02ec-4884-a900-d3d69a782da3.png">
+<img width="1279" alt="Screenshot_20230212_032058" src="https://user-images.githubusercontent.com/114839168/218343468-8778737d-1be7-4c8e-8191-f32a78f951f4.png">
 
 ## License
 
