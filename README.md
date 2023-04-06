@@ -36,8 +36,9 @@ This is my portfolio page with some projects that showcase my skills in coding.<
 
 <img width="1279" alt="Screenshot_20230212_032317" src="https://user-images.githubusercontent.com/114839168/218343513-a2f7a58f-08dc-4858-b112-b1ab1a3151eb.png">
 <img width="1268" alt="Screenshot_20230212_032019" src="https://user-images.githubusercontent.com/114839168/218343447-cc4312c1-fd76-43eb-b18e-4d9311c77eea.png">
-<img width="1262" alt="Screenshot_20230212_032038" src="https://user-images.githubusercontent.com/114839168/218343465-f05970ca-02ec-4884-a900-d3d69a782da3.png">
-<img width="1279" alt="Screenshot_20230212_032058" src="https://user-images.githubusercontent.com/114839168/218343468-8778737d-1be7-4c8e-8191-f32a78f951f4.png">
+<img width="1269" alt="Screenshot 2023-04-05 231423" src="https://user-images.githubusercontent.com/114839168/230287351-68611d06-2c9c-4451-a2fc-cbb64eee9987.png">
+<img width="1269" alt="Screenshot 2023-04-05 231159" src="https://user-images.githubusercontent.com/114839168/230286964-1ed474c4-165c-4395-a052-3e4406e260e8.png">
+
 
 ## License
 
