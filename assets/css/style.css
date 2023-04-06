@@ -209,8 +209,17 @@ div .about-me img {
   margin-bottom: 30px;
 }
 
-/* for desktop viewing */
+/* for wide desktop to wider monitor viewing */
+@media screen and (max-width: 2560px) {
+  body,
+  .header,
+  a {
+    background-color: rgb(18, 22, 22);
+    color:white;
+  }
+}
 
+/* For desktop viewing */
 @media screen and (max-width: 996px) {
   body,
   .header,
